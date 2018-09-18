@@ -1,2 +1,2 @@
 # Metamask-example
-Metamaskを使ったDAppsのサンプル
+Metamaskを使ったweb3フロントのサンプル
