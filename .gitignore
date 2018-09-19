@@ -11,5 +11,3 @@ yarn-error.log
 *.sln
 
 package-lock.json
-ipfs_data
-ipfs_staging
